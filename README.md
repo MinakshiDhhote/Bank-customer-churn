@@ -1,5 +1,5 @@
-# Bank-customer-churn
-## Supervised Machine Learning Code for Bank Churn Analysis This is my First Machine Learning Project upload on Github.
+# Supervised Machine Learning Code for Bank Churn Analysis 
+This is my First Machine Learning Project upload on Github.
 
 # The phases explored in this Project are -
 
