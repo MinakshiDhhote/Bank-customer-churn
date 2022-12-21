@@ -17,8 +17,6 @@ Prediction with Logistic Regression
 
 Prediction with Decision Tree
 
-Prediction with Gaussian Naive Bayes
-
 Prediction with Random Forest
 
 Feature Scaling - Normalization
