@@ -1,32 +1,29 @@
 # Supervised Machine Learning Code for Bank Churn Analysis 
 This is my First Machine Learning Project upload on Github.
-
+	
 # The phases explored in this Project are -
 
-Data Analysis and Preparation
+# Data Analysis and Preparation
 
-Data Exploration
+1. Data Exploration
 
-Data Preprocessing (Feature Engineering)
+2. Data Preprocessing (Feature Engineering)
 
-Build Machine Learning Project
+3. Data Preparation 
 
-Data Preparation (Train/Test Split)
+	1. (Train/Test Split)
+	2.Feature Scaling - Normalization
 
-Prediction with Logistic Regression
+4.Model Building
 
-Prediction with Decision Tree
+	1. Logistic Regression
+	2. Decision Tree
+	3. Random Forest
+	4. Support Vector Machine
+	5. K-Nearest Neighbors
 
-Prediction with Random Forest
+5. Evaluating Model
 
-Feature Scaling - Normalization
+6. Testing Model with mini application
 
-Prediction with Support Vector Machine
-
-Prediction with K-Nearest Neighbors
-
-Evaluating Model
-
-Testing Model with mini application
-
-Derived Conclusion
+7. Derived Conclusion
